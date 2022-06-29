@@ -1,4 +1,4 @@
-# -baseline
+# baseline
 高鲁棒性要求下的领域事件检测任务baseline，转化为ner的形式做任务
 [高鲁棒性要求下的领域事件检测任务]([高鲁棒性要求下的领域事件检测任务 竞赛 - DataFountain](https://www.datafountain.cn/competitions/561))
 
